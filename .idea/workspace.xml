@@ -19,6 +19,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1V6UEuWgxeaTbSKWxSuJPKEtoDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -115,12 +116,35 @@
       <workItem from="1580792761341" duration="1200000" />
       <workItem from="1580869950394" duration="1029000" />
       <workItem from="1580881894164" duration="605000" />
-      <workItem from="1580890387701" duration="633000" />
+      <workItem from="1580890387701" duration="816000" />
     </task>
+    <task id="LOCAL-00001" summary="git demo code">
+      <created>1580892087456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580892087456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git demo code" />
+    <option name="LAST_COMMIT_MESSAGE" value="git demo code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
